@@ -1,6 +1,6 @@
 import glob
 from pathlib import Path
-from LegendGirl.utils import load_plugins
+from Kannadiga.utils import load_plugins
 import logging
 from . import bot, bot2, bot3, bot5 , bot6, bot7, bot8, bot9, bot10
 
