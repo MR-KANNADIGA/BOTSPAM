@@ -1,6 +1,6 @@
 {
-    "name": "LegendSpam",
-    "description": "Spamming Bot Made By LegendBoy and Manisha",
+    "name": "Kannadiga BOT SPAM",
+    "description": "Spamming Bot Made By Kannadiga",
     "logo": "https://te.legra.ph/file/51153ee3e3b62182782ba.jpg",
     "keywords": [
         "telegram",
@@ -9,20 +9,20 @@
         "legendboy",
         "Botspam"
     ],
-    "repository": "https://github.com/LEGEND-AI/BOTSPAM",
-    "website": "https://t.me/LegendBoy_XD",
-    "success_url": "https://t.me/LegendBoy_XD",
+    "repository": "https://github.com/MR-KANNADIGA/BOTSPAM",
+    "website": "https://t.me/MR_PROFESSOR_AGORA",
+    "success_url": "https://t.me/MR_PROFESSOR_AGORA",
     "env": {
         "API_HASH": {
-            "description": "Write API_HASH from my.telegram.org",
+            "description": "Get API_HASH from my.telegram.org & Enter Here",
             "value": ""
         },
         "APP_ID": {
-            "description": "Paste API ID from my.telegram.org",
+            "description": "Get API_ID from my.telegram.org & Enter Here",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Use @BotFather. To Get BOT_TOKEN",
+            "description": "Use @BotFather To Get BOT_TOKEN",
             "value": ""
         },
         "BOT_TOKEN2": {
@@ -71,22 +71,22 @@
             
         },
         "SUDO_USERS": {
-            "description": "OWNER_ID",
+            "description": "OWNER ACCOUNT ID",
             "value": ""
             
         },
         "YOUR_NAME": {
             "description": "NAME",
-            "value": "LegendBoy"
+            "value": "Kannadiga"
             
         },
         "HEROKU_API_KEY": {
-            "description": "Your Heroku api key to update your bot",
+            "description": "Heroku Api Key. You Can Get It From https://heroku.com/account. Required For Updater To Work",
             "value": ""
             
         },
         "HEROKU_APP_NAME": {
-            "description": "Your app name to Update your bot",
+            "description": "Your APP Name which you entered in starting",
             "value": ""
             
         }
