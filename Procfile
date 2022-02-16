@@ -1,1 +1,1 @@
-worker: python -m LegendGirl
+worker: python -m Kannadiga
