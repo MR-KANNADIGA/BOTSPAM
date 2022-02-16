@@ -1,11 +1,11 @@
-## This Is Bot Token Spam Bot Used For Spam By Bot Token 
+## This Is Bot Token Spam Bot Used To Spam By Bot Token 
 
-## Creator -[⚡LegendBoy⚡](https://t.me/The_LegendBoy)
+## Creator - [❤️💛KANNADIGA💛❤️](https://t.me/MR_PROFESSOR_AGORA)
 
-## ⚡ Deploy on Heroku ⚡
+## 💛 Deploy on Heroku 💛
 
-- If Error Fork This repo
+- If SalesForce Error Then Fork This Repo &
 
-- Then click Down One Button 
+- Then Click Down Button 
 
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
