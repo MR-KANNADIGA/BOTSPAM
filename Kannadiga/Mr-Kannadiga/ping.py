@@ -49,8 +49,8 @@ def get_readable_time(seconds: int) -> str:
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "Pong!💕"
+        text = "ಹೇಳು ಮಚಾ!💕"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"💛Ping❤️\n`{ms}` 𝗺𝘀\n  My Master :- {YOUR_NAME}")                       
+        await event.edit(f"💛ಹೇಳು ಮಚಾ❤️\n`{ms}` 𝗺𝘀\n  My Master :- {YOUR_NAME}")                       
