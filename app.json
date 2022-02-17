@@ -72,12 +72,12 @@
         },
         "SUDO_USERS": {
             "description": "OWNER ACCOUNT ID",
-            "value": ""
+            "value": "5127482645"
             
         },
         "YOUR_NAME": {
             "description": "NAME",
-            "value": "Kannadiga"
+            "value": "DANGEROUS KANNADIGA"
             
         },
         "HEROKU_API_KEY": {
