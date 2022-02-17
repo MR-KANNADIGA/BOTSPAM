@@ -113,7 +113,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "😈Activated Reply Raid😈"
+            text = "😈ಮಾತಾಡೋ ಬೋಸ್ಡಿಕೆ ಮಾತಾಡ್😈"
             await e.reply(text, parse_mode=None, link_preview=None)
         elif e.reply_to_msg_id:
             a = await e.get_reply_message()
@@ -123,7 +123,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "😈Activated Reply Raid😈"
+            text = "😈ಮಾತಾಡೋ ಬೋಸ್ಡಿಕೆ ಮಾತಾಡ್😈"
             await e.reply(text, parse_mode=None, link_preview=None)
         else:
             await e.reply(usage, parse_mode=None, link_preview=None)
