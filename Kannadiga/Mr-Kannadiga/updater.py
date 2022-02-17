@@ -44,7 +44,7 @@ RESTARTING_APP = "re-starting heroku application"
 @bot10.on(events.NewMessage(pattern="/update"))
 async def restart(e):
     if e.sender_id in SMEX_USERS:
-        text = " 💛𝐔𝐏𝐃𝐀𝐓𝐈𝐍𝐆 𝐘𝐎𝐔𝐑 𝐒𝐏𝐀𝐌𝐁𝐎𝐓❤️....\n𝐓𝐘𝐏𝐄 /𝐩𝐢𝐧𝐠 𝐀𝐅𝐓𝐄𝐑 𝟓 𝐌𝐈𝐍𝐒 𝐓𝐎 𝐂𝐇𝐄𝐂𝐊 𝐈𝐅 𝐈'𝐌 𝐎𝐍😎"
+        text = " 💛𝗨𝗣𝗗𝗔𝗧𝗘 𝗔𝗚𝗧𝗔𝗜𝗗𝗘 𝗪𝗔𝗜𝗧❤️....\n𝐓𝐘𝐏𝐄 /𝐩𝐢𝐧𝐠 𝟱 𝗠𝗜𝗡𝗨𝗧𝗘𝗦 𝗔𝗗𝗠𝗘𝗟𝗘 𝗧𝗥𝗬 𝗠𝗔𝗗𝗜 𝗖𝗛𝗘𝗖𝗞 𝗠𝗔𝗗𝗜😎"
         await e.reply(text, parse_mode=None, link_preview=None)
 
 
